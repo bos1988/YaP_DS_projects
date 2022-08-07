@@ -1,0 +1,14 @@
+# Папка из pycharm
+.idea
+
+.ipynb_checkpoints
+
+systemdebug*
+
+*.doc
+*.doc#
+*.docx
+*.docx#
+*.pdf
+*.xlsx
+*.xlsx#
